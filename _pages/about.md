@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "John E. Ortega is a computational scientist dedicated to natural language processing research and investigation and advancement"
+title: "John E. Ortega is a computational scientist dedicated to natural language processing research and advancement"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
