@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "John E. Ortega / Natural Language Processing NLP"
+title                    : "John E. Ortega / Github Website"
 title_separator          : "-"
 name                     : &name "John E. Ortega"
 description              : &description "computer scientist in natural language processing and machine translation"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "John E. Ortega"
   avatar           : "John_Ortega.jpg"
-  bio              : "NLP and MT"
-  location         : "New York, New York and Madrid, Spain"
+  bio              : "Natural Language Processing"
+  location         : "NYC and Madrid"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=qzKvohMAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/John-Ortega"
-  uri              :
+  uri              : "http://naturallang.com"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,18 +102,18 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/johnortegajr"
   orcid            : "0000-0002-2328-3205"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/watch?v=i5cmjrRacDQ"
   wikipedia        :
 
 
