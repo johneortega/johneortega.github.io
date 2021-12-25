@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "John E. Ortega / Github Website"
+title                    : "John E. Ortega / johneortega"
 title_separator          : "-"
 name                     : &name "John E. Ortega"
 description              : &description "computer scientist in natural language processing and machine translation"
