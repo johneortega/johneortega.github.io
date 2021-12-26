@@ -32,13 +32,9 @@ On the teaching front, I believe that, after having spent a few years in classro
 
 Machine translation
 ------
-I have a keen interest on helping solve the machine translation application problem -- most translation systems, even [Google Translate](https://translate.google.com)
-haven't gotten it correct. The question comes down to what does "correct" mean. For me, correctness in machine translation is as simple as does a person that has no clue
-about translation completely agree that the translation from the source language to a target language is exactly what they expected? The question is hard to answer as there
-are many matices involved. In my opinion, we have a long way to go but we are moving in the right direction with deep learning, especially with
-[Transformers](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf).
+I have a keen interest on helping solve the machine translation application problem -- most translation systems, even [Google Translate](https://translate.google.com), haven't gotten it correct. The question comes down to what does "correct" mean. For me, correctness in machine translation is as simple as does a person that has no clue about translation completely agree that the translation produced is exactly what they expected? That question is hard to answer as there are many matices involved. In my opinion, we have a long way to go but we have far from "scratched the surface" as some claim. I believe that we are moving in the right direction with deep learning, especially with [Transformers](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf).
 
-My academic work has mostly been on two main lines of research: (1) Fuzzy-Match Repair and (2) Low-Resource Languages. I am very excited to say that several people are now beginning to work on Peruvian indigenous languages, for years they were countable on one hand. Here are some videos on my work with [Quechua Combinations](https://www.youtube.com/watch?v=imu_twOLiwA) and [Ashaninka](https://www.youtube.com/watch?v=pbQLi2Dm6A0). Additionally, I feel that one of the more interesting articles that I have published with [Kyungyun Cho](https://kyunghyuncho.me) is on a technique called [BPE-Guided](https://link.springer.com/article/10.1007/s10590-020-09255-9) for neural machine translation. Another article worth mentioning, while not focused on low-resource langauges, is an [Cool Article](https://www.dlsi.ua.es/~fsanchez/pub/pdf/ortega20a.pdf) from the [IEEE Transactions on Pattern Analysis and Intelligence Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), one of the most prestigous and highly indexed journals in computer science. The article is based on my thesis on Quality Estimation for Fuzzy-Match Repair and can be considered a highlight of my career.
+My academic work has mostly been on two main lines of research: (1) Fuzzy-Match Repair and (2) Low-Resource Languages. I am very excited to say that several people are now beginning to work on Peruvian indigenous languages, for years they were countable on one hand. Here are some videos on my work with [Quechua Combinations](https://www.youtube.com/watch?v=imu_twOLiwA) and [Ashaninka](https://www.youtube.com/watch?v=pbQLi2Dm6A0). Additionally, I feel that one of the more interesting articles that I have published with [Kyungyun Cho](https://kyunghyuncho.me) is on a technique called [BPE-Guided](https://link.springer.com/article/10.1007/s10590-020-09255-9) for neural machine translation. Another article worth mentioning, while not focused on low-resource langauges, is a [Cool Article](https://www.dlsi.ua.es/~fsanchez/pub/pdf/ortega20a.pdf) from the [IEEE Transactions on Pattern Analysis and Intelligence Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), one of the most prestigous and highly indexed journals in computer science. The article is based on my thesis on Quality Estimation for Fuzzy-Match Repair and can be considered a highlight of my career.
 
 Health care
 ------
@@ -53,6 +49,7 @@ https://www.youtube.com/watch?v=5ZkdOvoKCj4&list=PLLYljEiTWrd7DAVDgULlbCdSMvZ9m9
 
 Entrepreneurial
 ------
+https://angel.co/company/vidpal/people
 Entrepreneurial TBA.
 John actively angel invests in companies. He has invested in more than 10 startups in the past 5 years and plans to continue to help startups be successful. His intricate
 knowledge of startups and down-to-earth straightforwardness exemplify the ideal CTO or technical lead.
