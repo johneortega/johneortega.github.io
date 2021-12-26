@@ -38,8 +38,14 @@ My academic work has mostly been on two main lines of research: (1) Fuzzy-Match 
 
 Health care
 ------
-Health care attributes TBA.
-https://www.youtube.com/watch?v=i5cmjrRacDQ&t=679s
+In health care, I have tirelessly worked to solve several problems and build software to address those problems. I have always been part of the health care system in one way
+or another since a kid. Feel free to ask me about my experiences in health care outside of the AI realm. My experience from the digital perspective began in 2011 when I
+started working with WebMD. There I created tools for the devops team that will eventually guarantee the use of web pages online for everyday users in the USA to find
+solutions to their typical problems. After that, is when I began to work on a tougher problem rooted in NLP where I applied machine learning algorithms and other techniques
+with several others, even the original Watson team from IBM after winning Jeopardy (fun fact), to create software that eventually became a package known as Ambient Clinical
+Care later bought by Microsoft. Since then I have also worked with PointClickCare and other consulting companies to help make the patient experience better through AI.
+Currently, I am working with a company (to be announced) to help solve insurance problems in health care. To see some of the type of stuff I worked on, check out this [Talk
+on Big Data for Medical](https://www.youtube.com/watch?v=i5cmjrRacDQ) that I gave in Madrid.
 
 Software
 ------
