@@ -9,17 +9,8 @@ redirect_from:
 ---
 
 Welcome to my website on GitHub. My GitHub user is johneortega. I consider myself a computational linguist and business person with skills ranging from deep learning
-research on low-resource languages to developing small businesses from the ground up.
-
-I am currently an applied researcher and manager with research interests in the areas of machine learning, natural language processing, machine translation, and health care.
-I also serve as a computer science instructor and researcher at Columbia and New York Universities.
-
-I have started and exited two companies and actively advise on technical issues as well as worked as a contract senior architect and software developer for companies
-such as WebMD, Clear Channel (IHeart Radio), Creative Virtual, Buongiorno, and others...
-
-I possess more than 15 years of overall software, system, sales, and marketing experience. In addition to industry knowledge, I have deep academic knowledge and have published many works both for IP and academic purposes. 
-
-Deep Learning · Low-Resource Languages · Linguistics and Morphology · Medical and Clinical Machine Translation · Neural Networks · Algorithms · Peruvian Languages · Fuzzy-Match Repair · Organization and Business Management · Spanish
+research on low-resource languages to developing small businesses from the ground up. I am currently an applied researcher and manager with research interests in the areas of machine learning, natural language processing, machine translation, and health care. I also serve as a computer science instructor and researcher at Columbia and New York Universities. I have started and exited two companies and actively advise on technical issues as well as worked as a contract senior architect and software developer for companies such as WebMD, Clear Channel (IHeart Radio), Creative Virtual, Buongiorno, and others. I possess more than 15 years of overall software, system, sales, and marketing experience. In addition to industry knowledge, I have deep academic knowledge and have published many works both for IP and academic purposes. 
+Deep Learning · Low-Resource Languages · Linguistics and Morphology · Medical and Clinical · Machine Translation · Neural Networks · Algorithms · Peruvian Languages · Fuzzy-Match Repair · Organization and Business Management · Spanish
 
 More about me
 ======
