@@ -19,10 +19,7 @@ such as WebMD, Clear Channel (IHeart Radio), Creative Virtual, Buongiorno, and o
 
 I possess more than 15 years of overall software, system, sales, and marketing experience. In addition to industry knowledge, I have deep academic knowledge and have published many works both for IP and academic purposes. 
 
-Highlighted Skills: 
-Director, Management, Developer, Big Data, Natural Language Processing, Medical and Clinical, Machine Learning, Deep Learning, Machine Translation, Neural Networks, Algorithms, Python, Java, SQL, Theano, TensorFlow, Keras, Torch, DL4J, Spanish, English.
-
-Deep Learning · Multilingual NLP · Computational Morphology · NLP for Educational Applications · Language Grounding 
+Deep Learning · Low-Resource Languages · Linguistics and Morphology · Medical and Clinical Machine Translation · Neural Networks · Algorithms · Peruvian Languages · Fuzzy-Match Repair · Organization and Business Management · Spanish
 
 More about me
 ======
