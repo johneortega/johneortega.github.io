@@ -52,6 +52,55 @@ Software
 Software TBA.
 https://www.youtube.com/watch?v=7D_rUfOUOmE
 https://www.youtube.com/watch?v=5ZkdOvoKCj4&list=PLLYljEiTWrd7DAVDgULlbCdSMvZ9m9vgu
+http://quechuatranslator.com
+https://www.frontiersin.org/articles/10.3389/frma.2018.00019/full
+https://github.com/hinantin/AshMorph
+
+https://github.com/johneortega, fuzzy match repair...
+
+IheartRadio (Thumbplay at the time) Big Data jobs
+Ferrovial (Cintra) toll road
+Java Implementations SOA for set-top box impelmentations gambling you meedia
+
+
+Use natural language processing (NLP) and machine learning to create electronic health records (EHR) applications in acute and senior care facilities; head of the data
+science team; oversee and implement complex machine learning networks using frameworks like SciKit, TensorFlow, Theano, Rasa, and Apache Uima; IVR Trixxbox solution for
+text-to-speech API; manage and run company raise and product; Python coding for machine learning, machine translation, and natural language processing; big data with Hadoop
+on Amazon AWS; Map-Reduce; Django; enterprise development with Java, Oracle 10G, MYSQL, Windows, and Linux; programming J2EE Beans with Jbuilder, Eclipse, and Red Hat
+Enterprise Edition Linux; create shell scripts for cron jobs and develop devices using JNDI for C scripts; Java architectural roles for recommender system, a payment module,
+and quality television controller; EJB3 with Annotations and Spring; manage international team including Italy, Portugal, and Spain; European call center software; Navision
+Migration; Visual Basic 6.0; English language support; SQL administration and programming; reporting with ActiveX objects for marketing; convert PHP website to Java using
+Struts 1.2, J2SE, and JSP; lead team to convert legacy code to C#; manage MYSQL and Microsoft SQL Server; manage an intranet (Javascript, VBScript, and HTML); Linux system
+administration; SOAP for web services; Ajax deployment; .Net programming with Visual Studio 2005 and Visual Fox Pro development; internet service provider with Unix scripts;
+technical support with FTP and email; accounting and booking software.
+
+Client List:
+Akamai
+Alta AI
+Bitlogic
+Buongiorno
+Creative Virtual
+Diversified Resorts
+Ferrovial
+Iheart Radio
+Intrum Justitia
+Military Stars
+Mirada
+Orange
+Orion International
+PointClickCare
+Precision Quality Software
+Reedus Designs
+Results Technologies
+Rhodes Financial Services/Taxslayer
+Sizewand
+Unitio/ThinkExist.com
+Verio/NTT
+Vidpal
+Wade And Wendy
+WebMd
+
+
 
 Entrepreneurial
 ------
@@ -63,6 +112,11 @@ https://www.youtube.com/watch?v=1DzO5sXtvH4
 https://www.youtube.com/watch?v=dusECYmOBWY
 https://www.geekwire.com/2016/vidpal/
 https://www.youtube.com/watch?v=ojTP-AXbcGw
+
+https://www.inc.com/michael-schein/social-media-why-it-s-the-secret-startup-success-killer.html
+https://www.youtube.com/watch?v=QBIIdPfNvKI
+https://www.youtube.com/watch?v=X8pMBLgkq4c
+
 
 
 
