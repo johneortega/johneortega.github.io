@@ -71,3 +71,5 @@ knowledge of startups and down-to-earth straightforwardness exemplify the ideal 
 
 Other interests
 ------
+I enjoy several outdoor sports including fishing (catch and release), football (soccer), and basketball. I ran a basketball club in Madrid, Spain dedicated to expats for
+nearly 10 years, here is the [Madrid Basketball page](https://www.facebook.com/madridbasketballclub)
