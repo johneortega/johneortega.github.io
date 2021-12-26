@@ -12,7 +12,7 @@ Welcome to my website on GitHub. My GitHub user is johneortega. I consider mysel
 research on low-resource languages to developing small businesses from the ground up.
 
 I am currently an applied researcher and manager with research interests in the areas of machine learning, natural language processing, machine translation, and health care.
-I also serve as a computer science instructor and researcher at New York University and Columbia University.
+I also serve as a computer science instructor and researcher at Columbia and New York Universities.
 
 I have started and exited two companies and actively advise on technical issues as well as worked as a contract senior architect and software developer for companies
 such as WebMD, Clear Channel (IHeart Radio), Creative Virtual, Buongiorno, and others...
