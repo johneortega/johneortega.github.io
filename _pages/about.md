@@ -69,4 +69,5 @@ https://www.youtube.com/watch?v=ojTP-AXbcGw
 Other interests
 ------
 I enjoy several outdoor sports including fishing (catch and release), football (soccer), and basketball. I ran a basketball club in Madrid, Spain dedicated to expats for
-nearly 10 years, here is the [Madrid Basketball page](https://www.facebook.com/madridbasketballclub)
+nearly 10 years, here is the [Madrid Basketball page](https://www.facebook.com/madridbasketballclub). I regularly mentor students and others to become successful in what
+they do. Particularly, a few of my latest mentees are: [Louis Lai](https://www.linkedin.com/in/louiseylai), [Patrick Candela](https://www.linkedin.com/in/patrick-candela-3453b71a/), [Shirin Jabari](https://www.linkedin.com/in/shirin-jabbari-97b0495a/), [Vlad Tyshkevich](https://www.linkedin.com/in/vladtco/), and [Will Ang](https://www.linkedin.com/in/willang35). I am a member of several clubs including ACM, EAMT, and more. I enjoy working with kids and have taught English and Computer Science at the grade school level.
