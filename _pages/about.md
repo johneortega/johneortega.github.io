@@ -25,7 +25,7 @@ Nuance
 Softwawre in spain Ih
 
 Research and teaching
-======
+------
 My research focuses on the role of linguistics, knowledge, and theory in natural language processing (NLP) and machine learning (ML), sub-fields of artificial intelligence
 (AI). More specifically, recent work focuses on translation, prediction, deep learning, topic modeling, information retrieval, and Bayesian statistics. Within those broad
 fields, I have focused on two major sub-fields. First, the process of automatically translating documents through a digital method called machine translation (MT). Second,
