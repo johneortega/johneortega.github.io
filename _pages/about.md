@@ -54,20 +54,31 @@ from academia and the private sector to others so that they can succeed. I have 
 Machine translation
 ------
 Machine translation TBA.
+https://www.youtube.com/watch?v=pbQLi2Dm6A0
+https://www.youtube.com/watch?v=imu_twOLiwA
 
 Health care
 ------
 Health care attributes TBA.
+https://www.youtube.com/watch?v=i5cmjrRacDQ&t=679s
 
 Software
 ------
 Software TBA.
+https://www.youtube.com/watch?v=7D_rUfOUOmE
+https://www.youtube.com/watch?v=5ZkdOvoKCj4&list=PLLYljEiTWrd7DAVDgULlbCdSMvZ9m9vgu
 
 Entrepreneurial
 ------
 Entrepreneurial TBA.
 John actively angel invests in companies. He has invested in more than 10 startups in the past 5 years and plans to continue to help startups be successful. His intricate
 knowledge of startups and down-to-earth straightforwardness exemplify the ideal CTO or technical lead.
+https://www.youtube.com/watch?v=1DzO5sXtvH4
+https://www.youtube.com/watch?v=dusECYmOBWY
+https://www.geekwire.com/2016/vidpal/
+https://www.youtube.com/watch?v=ojTP-AXbcGw
+
+
 
 Other interests
 ------
