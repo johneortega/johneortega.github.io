@@ -15,14 +15,14 @@ Deep Learning · Low-Resource Languages · Linguistics and Morphology · Medical
 
 More about me
 ======
-I teach a course at Columbia University on data analytics and natural language understanding, my [Columbia profile](https://sps.columbia.edu/faculty/john-ortega) is online.
-At this point, I don't have time to teach more classes but would love to some day.
-I defended my doctoral thesis on fuzzy-match repair with international mention in Alicante, Spain. You can view my [thesis] (https://rua.ua.es/dspace/handle/10045/116315)
-online and feel free to direct any questions that you may have via one of my social channels listed below. You can also email me at jortega at cs.nyu.edu.
-I am an avid pursuer of solving the low-resource translation problem, here are some thoughts of on a Peruvian low-resource language called [Quechua](https://medium.com/@johneortega/low-resource-languages-for-machine-translation-a-governmental-problem-7e014581d719).
+I am of Peruvian and Irish decent, which makes me a mutt I guess. As a first generation American, I feel that I have seen some of the hardships that one can face in the USA
+concerning race and ethnic issues, although these days much less for me. I have lived in several cities such as New York, Lima (Peru), Madrid, Malaga (Spain), Miami, New
+York City, Seattle, Trento (Italy), Wolverhampton (England) and more. Nonetheless, I would say that most of my time has been spent in Spain or the USA. If you are interested
+to know my thoughts on quality of life, have a look at my [Spain vs USA comparision](https://www.quora.com/profile/John-Ortega-10) on Quora.
 
-Nuance
-Softwawre in spain Ih
+I teach a course at Columbia University on data analytics and natural language understanding, my [Columbia profile](https://sps.columbia.edu/faculty/john-ortega) is online. At this point, I don't have time to teach more classes but would love to some day. I defended my doctoral thesis on fuzzy-match repair with international mention in Alicante, Spain. You can view my [thesis] (https://rua.ua.es/dspace/handle/10045/116315) online and feel free to direct any questions that you may have via one of my social channels. You can also [email me] (jortega at cs.nyu.edu). I am an avid pursuer of solving the low-resource translation problem, here are some thoughts of on a Peruvian low-resource language called [Quechua](https://medium.com/@johneortega/low-resource-languages-for-machine-translation-a-governmental-problem-7e014581d719).
+
+My career and hobbies have begun to mix, I perform NLP for fun now. Since the early 2000s, I have worked on tons of software projects including stuff like building toll-road software and other great accomplishments. But, my career really changed in 2011 when I decided, after 10 years as a software developer, to dedicate my life to computational linguistics. That is when I went back to [Hofstra University] (https://hofstra.edu) for my Master's degree in Computer Science and left WebMD to work at [Nuance Communications] (https://nuance.com) (now Microsoft) in the Clinical Language Understanding group. I ended up on the dean's list and cum laude with a perfect 4.0 and a thesis that lead to [my first Quechua research paper](https://aclanthology.org/W18-2201.pdf) for machine translation.
 
 Research and teaching
 ------
