@@ -49,17 +49,9 @@ on Big Data for Medical](https://www.youtube.com/watch?v=i5cmjrRacDQ) that I gav
 
 Software
 ------
-I have built and deployed products for several years. My first job as a software developer was for [Taxslayer Software](https://www.taxslayer.com) which ended up being a
-huge success. After that, I worked as a consultant for a few other cool companies back in the early 2000s such as [Akamai](), [Verion/NTT](), and more until landing my first job
-as a web developer and eventually manager at [Results Technologies](), a company dedicated to creating call-center software, I even got to program in an older language
-called PIC at Results along with C++, Java, PHP, and more. I have worked in a lot of companies since then and been part of a lot of cool projects.
+I have built and deployed products for several years. My first job as a software developer was for [Taxslayer Software](https://www.taxslayer.com) which ended up being a huge success. After that, I worked as a consultant for a few other cool companies back in the early 2000s such as [Akamai](https://www.akamai.com/es), [Verion/NTT](https://www.verio.com/), and more until landing my first job as a web developer and eventually manager at [Results Technologies](), a company dedicated to creating call-center software, I even got to program in an older language called PIC at Results along with C++, Java, PHP, and more. I have worked in a lot of companies since then and been part of a lot of cool projects.
 
-The past 10 years or so have been more related to NLP, including [Big Data work on Hadoop for Thumbplay] (IHeartRadio)]. I have also done a talk on [Big Data for
-translation](https://www.youtube.com/watch?v=7D_rUfOUOmE) and [Big Data for low-resource
-langauges](https://www.youtube.com/watch?v=5ZkdOvoKCj4&list=PLLYljEiTWrd7DAVDgULlbCdSMvZ9m9vgu) in the Ukraine. While most of the software that I have worked on has been for
-the private sector, I have made available a few projects that I have worked on like [Quechua Translator](http://quechuatranslator.com),
-[Termolator](https://www.frontiersin.org/articles/10.3389/frma.2018.00019/full), and [AshMorph](https://github.com/hinantin/AshMorph). Additionally, I am in the process of
-uploading the code for my thesis on Github.
+The past 10 years or so have been more related to NLP, including [Big Data work on Hadoop for Thumbplay](https://en.wikipedia.org/wiki/Thumbplay) (IHeartRadio). I have also given talks on [Big Data for translation](https://www.youtube.com/watch?v=7D_rUfOUOmE) and [Big Data for low-resource languages](https://www.youtube.com/watch?v=5ZkdOvoKCj4&list=PLLYljEiTWrd7DAVDgULlbCdSMvZ9m9vgu). While most of the software that I have worked on has been for the private sector, I have made available a few projects that I have worked on like [Quechua Translator](http://quechuatranslator.com), [Termolator](https://www.frontiersin.org/articles/10.3389/frma.2018.00019/full), and [AshMorph](https://github.com/hinantin/AshMorph). Additionally, I am in the process of uploading the code for my thesis on Github.
 
 Lastly, here is a cookie-cutter box explanation of all the technologies and clients that I have worked with in the past. I used natural language processing and machine
 learning to create electronic health records (EHR) applications in acute and senior care facilities; head of the data science team; oversee and implement complex machine
