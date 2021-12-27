@@ -71,25 +71,26 @@ Client List: Akamai, Alta AI, Bitlogic, Buongiorno, Creative Virtual, Diversifie
 Military Stars, Mirada, Orange, Orion International, PointClickCare, Precision Quality Software, Reedus Designs, Results Technologies, Rhodes Financial Services/Taxslayer,
 Sizewand, Unitio/ThinkExist.com, Verio/NTT, Vidpal, Wade And Wendy, WebMd.
 
-
-
 Entrepreneurial
 ------
-https://angel.co/company/vidpal/people
-Entrepreneurial TBA.
-John actively angel invests in companies. He has invested in more than 10 startups in the past 5 years and plans to continue to help startups be successful. His intricate
-knowledge of startups and down-to-earth straightforwardness exemplify the ideal CTO or technical lead.
-https://www.youtube.com/watch?v=1DzO5sXtvH4
-https://www.youtube.com/watch?v=dusECYmOBWY
-https://www.geekwire.com/2016/vidpal/
-https://www.youtube.com/watch?v=ojTP-AXbcGw
+One of my favorite pastimes is creating and developing businesses. I love the hard work and grit that it takes to move a business from its early stages to a cash-flow
+positive point. This typically requires working on getting revenue and users, important factors to achieving an investment. I have created two of my own business:
+ListPropertiesNow in 2006 and Vidpal in 2016. The 10 year difference between them proved to be an interesting difference.
 
-https://www.inc.com/michael-schein/social-media-why-it-s-the-secret-startup-success-killer.html
-https://www.youtube.com/watch?v=QBIIdPfNvKI
-https://www.youtube.com/watch?v=X8pMBLgkq4c
+I also actively angel invest and advise companies. I can help develop a business since I have gone through two of them now. I have invested in more than 10 companies
+including my own as an accredited investor. Feel free to view my [Angel List Profile](https://angel.co/u/john-ortega) which is now kind of outdated. My second company,
+Vidpal, is a little more recent and still has a few remnants lying around the internet:
 
+[Vidpal's Angel Page](https://angel.co/company/vidpal/people)
+[Startups Working Together Group Sponsored By Vidpal](https://www.youtube.com/watch?v=1DzO5sXtvH4)
+[9-Mile lab final presentation in Seattle](https://www.youtube.com/watch?v=dusECYmOBWY)
+[Geekwire Writeup on Vidpal](https://www.geekwire.com/2016/vidpal)
+[Vidpal's quick commercial](https://www.youtube.com/watch?v=ojTP-AXbcGw)
+[Comments by Mike Schein on Inc.com](https://www.inc.com/michael-schein/social-media-why-it-s-the-secret-startup-success-killer.html)
+[Vidpal and Amber Rose](https://www.youtube.com/watch?v=QBIIdPfNvKI)
+[Vidpal and Funkmaster Flex](https://www.youtube.com/watch?v=X8pMBLgkq4c)
 
-
+Feel free to reach out with any questions or doubts. I am looking for the next unicorn, don't hesitate to let me know how you plan on building it!
 
 Other Interests
 ------
