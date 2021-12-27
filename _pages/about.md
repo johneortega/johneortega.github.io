@@ -49,56 +49,31 @@ on Big Data for Medical](https://www.youtube.com/watch?v=i5cmjrRacDQ) that I gav
 
 Software
 ------
-Software TBA.
-https://www.youtube.com/watch?v=7D_rUfOUOmE
-https://www.youtube.com/watch?v=5ZkdOvoKCj4&list=PLLYljEiTWrd7DAVDgULlbCdSMvZ9m9vgu
-http://quechuatranslator.com
-https://www.frontiersin.org/articles/10.3389/frma.2018.00019/full
-https://github.com/hinantin/AshMorph
+I have built and deployed products for several years. My first job as a software developer was for [Taxslayer Software](https://www.taxslayer.com) which ended up being a
+huge success. After that, I worked as a consultant for a few other cool companies back in the early 2000s such as [Akamai](), [Verion/NTT](), and more until landing my first job
+as a web developer and eventually manager at [Results Technologies](), a company dedicated to creating call-center software, I even got to program in an older language
+called PIC at Results along with C++, Java, PHP, and more. I have worked in a lot of companies since then and been part of a lot of cool projects.
 
-https://github.com/johneortega, fuzzy match repair...
+The past 10 years or so have been more related to NLP, including [Big Data work on Hadoop for Thumbplay] (IHeartRadio)]. I have also done a talk on [Big Data for
+translation](https://www.youtube.com/watch?v=7D_rUfOUOmE) and [Big Data for low-resource
+langauges](https://www.youtube.com/watch?v=5ZkdOvoKCj4&list=PLLYljEiTWrd7DAVDgULlbCdSMvZ9m9vgu) in the Ukraine. While most of the software that I have worked on has been for
+the private sector, I have made available a few projects that I have worked on like [Quechua Translator](http://quechuatranslator.com),
+[Termolator](https://www.frontiersin.org/articles/10.3389/frma.2018.00019/full), and [AshMorph](https://github.com/hinantin/AshMorph). Additionally, I am in the process of
+uploading the code for my thesis on Github.
 
-IheartRadio (Thumbplay at the time) Big Data jobs
-Ferrovial (Cintra) toll road
-Java Implementations SOA for set-top box impelmentations gambling you meedia
-
-
-Use natural language processing (NLP) and machine learning to create electronic health records (EHR) applications in acute and senior care facilities; head of the data
-science team; oversee and implement complex machine learning networks using frameworks like SciKit, TensorFlow, Theano, Rasa, and Apache Uima; IVR Trixxbox solution for
-text-to-speech API; manage and run company raise and product; Python coding for machine learning, machine translation, and natural language processing; big data with Hadoop
-on Amazon AWS; Map-Reduce; Django; enterprise development with Java, Oracle 10G, MYSQL, Windows, and Linux; programming J2EE Beans with Jbuilder, Eclipse, and Red Hat
-Enterprise Edition Linux; create shell scripts for cron jobs and develop devices using JNDI for C scripts; Java architectural roles for recommender system, a payment module,
-and quality television controller; EJB3 with Annotations and Spring; manage international team including Italy, Portugal, and Spain; European call center software; Navision
-Migration; Visual Basic 6.0; English language support; SQL administration and programming; reporting with ActiveX objects for marketing; convert PHP website to Java using
-Struts 1.2, J2SE, and JSP; lead team to convert legacy code to C#; manage MYSQL and Microsoft SQL Server; manage an intranet (Javascript, VBScript, and HTML); Linux system
-administration; SOAP for web services; Ajax deployment; .Net programming with Visual Studio 2005 and Visual Fox Pro development; internet service provider with Unix scripts;
-technical support with FTP and email; accounting and booking software.
-
-Client List:
-Akamai
-Alta AI
-Bitlogic
-Buongiorno
-Creative Virtual
-Diversified Resorts
-Ferrovial
-Iheart Radio
-Intrum Justitia
-Military Stars
-Mirada
-Orange
-Orion International
-PointClickCare
-Precision Quality Software
-Reedus Designs
-Results Technologies
-Rhodes Financial Services/Taxslayer
-Sizewand
-Unitio/ThinkExist.com
-Verio/NTT
-Vidpal
-Wade And Wendy
-WebMd
+Lastly, here is a cookie-cutter box explanation of all the technologies and clients that I have worked with in the past. I used natural language processing and machine
+learning to create electronic health records (EHR) applications in acute and senior care facilities; head of the data science team; oversee and implement complex machine
+learning networks using frameworks like SciKit, TensorFlow, Theano, Rasa, and Apache Uima; IVR Trixxbox solution for text-to-speech API; manage and run company raise and
+product; Python coding for machine learning, machine translation, and natural language processing; big data with Hadoop on Amazon AWS; Map-Reduce; Django; enterprise
+development with Java, Oracle 10G, MYSQL, Windows, and Linux; programming J2EE Beans with Jbuilder, Eclipse, and Red Hat Enterprise Edition Linux; create shell scripts for
+cron jobs and develop devices using JNDI for C scripts; Java architectural roles for recommender system, a payment module, and quality television controller; EJB3 with
+Annotations and Spring; manage international team including Italy, Portugal, and Spain; European call center software; Navision Migration; Visual Basic 6.0; English language
+support; SQL administration and programming; reporting with ActiveX objects for marketing; convert PHP website to Java using Struts 1.2, J2SE, and JSP; lead team to convert
+legacy code to C#; manage MYSQL and Microsoft SQL Server; manage an intranet (Javascript, VBScript, and HTML); Linux system administration; SOAP for web services; Ajax
+deployment; .Net programming with Visual Studio 2005 and Visual Fox Pro development; internet service provider with Unix scripts; technical support with FTP and email;
+accounting and booking software. Client List: Akamai, Alta AI, Bitlogic, Buongiorno, Creative Virtual, Diversified Resorts, Ferrovial, Iheart Radio, Intrum Justitia,
+Military Stars, Mirada, Orange, Orion International, PointClickCare, Precision Quality Software, Reedus Designs, Results Technologies, Rhodes Financial Services/Taxslayer,
+Sizewand, Unitio/ThinkExist.com, Verio/NTT, Vidpal, Wade And Wendy, WebMd.
 
 
 
