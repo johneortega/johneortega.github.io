@@ -65,7 +65,9 @@ Annotations and Spring; manage international team including Italy, Portugal, and
 support; SQL administration and programming; reporting with ActiveX objects for marketing; convert PHP website to Java using Struts 1.2, J2SE, and JSP; lead team to convert
 legacy code to C#; manage MYSQL and Microsoft SQL Server; manage an intranet (Javascript, VBScript, and HTML); Linux system administration; SOAP for web services; Ajax
 deployment; .Net programming with Visual Studio 2005 and Visual Fox Pro development; internet service provider with Unix scripts; technical support with FTP and email;
-accounting and booking software. Client List: Akamai, Alta AI, Bitlogic, Buongiorno, Creative Virtual, Diversified Resorts, Ferrovial, Iheart Radio, Intrum Justitia,
+accounting and booking software. 
+
+Client List: Akamai, Alta AI, Bitlogic, Buongiorno, Creative Virtual, Diversified Resorts, Ferrovial, Iheart Radio, Intrum Justitia,
 Military Stars, Mirada, Orange, Orion International, PointClickCare, Precision Quality Software, Reedus Designs, Results Technologies, Rhodes Financial Services/Taxslayer,
 Sizewand, Unitio/ThinkExist.com, Verio/NTT, Vidpal, Wade And Wendy, WebMd.
 
