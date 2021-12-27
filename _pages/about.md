@@ -81,14 +81,14 @@ I also actively angel invest and advise companies. I can help develop a business
 including my own as an accredited investor. Feel free to view my [Angel List Profile](https://angel.co/u/john-ortega) which is now kind of outdated. My second company,
 Vidpal, is a little more recent and still has a few remnants lying around the internet:
 
-[Vidpal's Angel Page](https://angel.co/company/vidpal/people)
-[Startups Working Together Group Sponsored By Vidpal](https://www.youtube.com/watch?v=1DzO5sXtvH4)
-[9-Mile lab final presentation in Seattle](https://www.youtube.com/watch?v=dusECYmOBWY)
-[Geekwire Writeup on Vidpal](https://www.geekwire.com/2016/vidpal)
-[Vidpal's quick commercial](https://www.youtube.com/watch?v=ojTP-AXbcGw)
-[Comments by Mike Schein on Inc.com](https://www.inc.com/michael-schein/social-media-why-it-s-the-secret-startup-success-killer.html)
-[Vidpal and Amber Rose](https://www.youtube.com/watch?v=QBIIdPfNvKI)
-[Vidpal and Funkmaster Flex](https://www.youtube.com/watch?v=X8pMBLgkq4c)
+1.[Vidpal's Angel Page](https://angel.co/company/vidpal/people)
+1.[Startups Working Together Group Sponsored By Vidpal](https://www.youtube.com/watch?v=1DzO5sXtvH4)
+1.[9-Mile lab final presentation in Seattle](https://www.youtube.com/watch?v=dusECYmOBWY)
+1.[Geekwire Writeup on Vidpal](https://www.geekwire.com/2016/vidpal)
+1.[Vidpal's quick commercial](https://www.youtube.com/watch?v=ojTP-AXbcGw)
+1.[Comments by Mike Schein on Inc.com](https://www.inc.com/michael-schein/social-media-why-it-s-the-secret-startup-success-killer.html)
+1.[Vidpal and Amber Rose](https://www.youtube.com/watch?v=QBIIdPfNvKI)
+1.[Vidpal and Funkmaster Flex](https://www.youtube.com/watch?v=X8pMBLgkq4c)
 
 Feel free to reach out with any questions or doubts. I am looking for the next unicorn, don't hesitate to let me know how you plan on building it!
 
