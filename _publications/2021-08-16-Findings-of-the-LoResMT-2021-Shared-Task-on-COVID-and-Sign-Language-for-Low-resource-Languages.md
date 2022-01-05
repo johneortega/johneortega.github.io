@@ -1,7 +1,7 @@
 ---
 title: "Findings of the LoResMT 2021 Shared Task on COVID and Sign Language for Low-resource Languages"
 collection: publications
-permalink: /publication/2021-08-16-Findings-of-the-LoResMT-2021-Shared-Task-on-COVID-and-Sign-Language-for-Low-resource-Languages.md
+permalink: /publication/2021-08-16-Findings-of-the-LoResMT-2021-Shared-Task-on-COVID-and-Sign-Language-for-Low-resource-Languages
 excerpt: 'We present the findings of the LoResMT 2021 shared task which focuses on machine translation (MT) of COVID-19 data for both low-resource spoken and sign
 languages.'
 date: 2021-08-16
