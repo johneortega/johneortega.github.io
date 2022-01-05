@@ -5,7 +5,7 @@ permalink: /publication/2021-10-19-Medical-report-coding-with-acronym-abbreviati
 excerpt: 'Techniques for coding a medical report include identifying an acronym or abbreviation in the medical report...'
 date: 2021-10-19
 venue: 'U.S. Patent and Trademark Office'
-paperurl: 'https://patentimages.storage.googleapis.com/bc/6c/74/03c596e5e3343d/US11152084.pdf'
+paperurl: 'http://johneortega.github.io/files/paper22.pdf'
 citation: 'Kondadadi, R., Yegnanarayanan, G., Delaney, B. W., & Ortega, J. (2021). U.S. Patent No. 11,152,084. Washington, DC: U.S. Patent and Trademark Office.'
 ---
 Techniques for coding a medical report include identifying an acronym or abbreviation in the medical report, and a plurality of phrases not explicitly included in the
