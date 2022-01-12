@@ -45,14 +45,13 @@ publist = {
 }
 '''
 publist = {
-    "proceeding": {
-        "file" : "proceedings.bib",
-        "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
+    "patent":{
+        "file": "patents.bib",
+        "venuekey" : "patent",
+        "venue-pretext" : "U.S. Patent",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
-        
-    }
+    } 
 }
 
 html_escape_table = {
