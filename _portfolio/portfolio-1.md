@@ -4,4 +4,4 @@ excerpt: "A fabulous basketball team in Madrid, Spain!<br/><img src='/images/joh
 collection: portfolio
 ---
 
-This is a photo of the team I helped create ten years ago in Madrid, Spain dedicated to expat basketball. 
+This is a basketball team I helped create ten years ago in Madrid, Spain dedicated to expat basketball. 
