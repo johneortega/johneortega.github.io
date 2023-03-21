@@ -89,6 +89,7 @@ Vidpal, is a little more recent and still has a few remnants lying around the in
 1. [Comments by Mike Schein on Inc.com](https://www.inc.com/michael-schein/social-media-why-it-s-the-secret-startup-success-killer.html)
 1. [Vidpal and Amber Rose](https://www.youtube.com/watch?v=QBIIdPfNvKI)
 1. [Vidpal and Funkmaster Flex](https://www.youtube.com/watch?v=X8pMBLgkq4c)
+1. [Vidpal at StarupPalooza in Stamford](https://www.stamfordadvocate.com/business/article/At-Stamford-Startupalooza-sharp-pointers-on-7947720.php)
 
 Feel free to reach out with any questions or doubts. I am looking for the next unicorn, don't hesitate to let me know how you plan on building it!
 
