@@ -53,7 +53,7 @@ I have built and deployed products for several years. My first job as a software
 huge success. After that, I worked as a consultant for a few other cool companies back in the early 2000s such as [Akamai](https://www.akamai.com),
 [Verion/NTT](https://www.verio.com/), and more until landing my first job as a web developer and eventually manager at [Results Technologies](https://results-cx.com), a company dedicated to creating call-center software, I even got to program in an older language called PIC at Results along with C++, Java, PHP, and more. I have worked in a lot of companies since then and been part of a lot of cool projects.
 
-The past 10 years or so have been more related to NLP, including [Big Data work on Hadoop for Thumbplay](https://en.wikipedia.org/wiki/Thumbplay) (IHeartRadio). I have also given talks on [Big Data for translation](https://www.youtube.com/watch?v=7D_rUfOUOmE) and [Big Data for low-resource languages](https://www.youtube.com/watch?v=5ZkdOvoKCj4&list=PLLYljEiTWrd7DAVDgULlbCdSMvZ9m9vgu). While most of the software that I have worked on has been for the private sector, I have made available a few projects that I have worked on like [Quechua Translator](http://quechuatranslator.com), [Termolator](https://www.frontiersin.org/articles/10.3389/frma.2018.00019/full), and [AshMorph](https://github.com/hinantin/AshMorph). Additionally, I am in the process of uploading the code for my thesis on Github.
+The past 10 years or so have been more related to NLP, including [Big Data work on Hadoop for Thumbplay](https://en.wikipedia.org/wiki/Thumbplay) (IHeartRadio). I have also given talks on [Big Data for translation](https://www.youtube.com/watch?v=7D_rUfOUOmE) and [Big Data for low-resource languages](https://www.youtube.com/watch?v=5ZkdOvoKCj4&list=PLLYljEiTWrd7DAVDgULlbCdSMvZ9m9vgu). While most of the software that I have worked on has been for the private sector, I have made available a few projects that I have worked on like [JSALT 2023](https://jsalt2023.univ-lemans.fr/en/index.html), [Termolator](https://www.frontiersin.org/articles/10.3389/frma.2018.00019/full), [IWSLT](https://iwslt.org) and [AshMorph](https://github.com/hinantin/AshMorph). Additionally, I am in the process of uploading the code for my thesis on Github.
 
 Lastly, here is a cookie-cutter box explanation of all the technologies and clients that I have worked with in the past. I used natural language processing and machine
 learning to create electronic health records (EHR) applications in acute and senior care facilities; head of the data science team; oversee and implement complex machine
@@ -85,6 +85,8 @@ Vidpal, is a little more recent and still has a few remnants lying around the in
 1. [Startups Working Together Group Sponsored By Vidpal](https://www.youtube.com/watch?v=1DzO5sXtvH4)
 1. [9-Mile lab final presentation in Seattle](https://www.youtube.com/watch?v=dusECYmOBWY)
 1. [Geekwire Writeup on Vidpal](https://www.geekwire.com/2016/vidpal)
+1. [Vidpal Indeed Company Reviews](https://www.indeed.com/cmp/Vidpal/reviews)
+1. [Startup Beat Coverage about Vidpal](https://startupbeat.com/featured-startup-pitch-vidpal-lets-see-destinations-eyes-local/20715/)
 1. [Vidpal's quick commercial](https://www.youtube.com/watch?v=ojTP-AXbcGw)
 1. [Comments by Mike Schein on Inc.com](https://www.inc.com/michael-schein/social-media-why-it-s-the-secret-startup-success-killer.html)
 1. [Vidpal and Amber Rose](https://www.youtube.com/watch?v=QBIIdPfNvKI)
